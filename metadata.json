@@ -1,0 +1,8 @@
+{
+  "name": "Remix SentinelX — AI Security Operations \u0026 Digital Forensics",
+  "description": "Next-generation SecOps and digital forensics platform featuring real-time threat detection, SOAR automated response, PCAP hex inspection, artifact sandbox, and AI root-cause analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
